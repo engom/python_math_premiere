@@ -1,0 +1,10 @@
+name: python_math_premiere
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - sympy
+  - ipywidgets
+  - bqplot
+  - notebook
