@@ -8,5 +8,4 @@ dependencies:
   - ipywidgets
   - bqplot
   - notebook
-  - IPython
-  - latex
+  - IPython.display
